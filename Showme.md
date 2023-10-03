@@ -15,7 +15,7 @@ Welcome to my profile! I'm Joseph Benson, a versatile professional with expertis
 - 🔭 I’m currently an [Intern student in the ALX SE Program](https://www.alxafrica.com/software-engineering-2023/) and an experienced IT Support Specialist.
 - 🌱 Currently learning Python, Flask, and JavaScript (React)
 - 👯 Looking to collaborate on Python, C++, and JavaScript projects
-- 🤝 I’m looking for more experience with projects and internship opportunities in becoming a better SE
+- 🤝 I’m looking for more experience with projects and internship opportunities to become a better SE
 - 💬 Ask me about **Python, C++, MySQL, Javascript, Tech Support, ERP System, Database Management, Data Analysis, Azure, and Workspace Migration**
 - 📫 You can reach me via **eliteben12@gmail.com**
 
