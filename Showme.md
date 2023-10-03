@@ -1,6 +1,6 @@
 <!-- Your Profile Image -->
 <p align="center">
-  <img width="1020" src="https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9" alt="Joseph Benson's Profile Image">
+  <img width="1020" src="https://media.istockphoto.com/id/1197298065/photo/close-up-css-html-code-on-monitor-screen-with-black-background.jpg?s=1024x1024&w=is&k=20&c=Vkwl2WjQQAFruzfwlGY8lLCMLQn6lvuZ7B11opLp1t4=" alt="Joseph Benson's Profile Image">
 </p>
 
 <!-- Profile Introduction -->
@@ -28,7 +28,7 @@ Welcome to my profile! I'm Joseph Benson, a versatile professional with expertis
 
 <!-- Coding GIF -->
 <p align="center">
-  <img alt="writing codes" width="1020" height="200" align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
+  <img alt="writing codes" width="1020" height="200" align="center" src="https://miro.medium.com/v2/resize:fit:4800/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
 </p>
 
 <!-- Languages and Tools -->
