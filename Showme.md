@@ -1,6 +1,6 @@
 <!-- Your Profile Image -->
 <p align="center">
-  <img width="1020" src="https://pixabay.com/photos/software-developer-web-developer-6521720/" alt="Joseph Benson's Profile Image">
+  <img width="1020" src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=" alt="Joseph Benson's Profile Image">
 </p>
 
 <!-- Profile Introduction -->
